@@ -3,9 +3,12 @@
 #Postpartum Anxiety and Stress Prompt Techniques
 
 This repository contains a collection of prompt techniques for generating role-playing scenarios, questions, and instructions related to postpartum anxiety and stress.The Chatbot  first try to give output upon prompt text data. These prompt techniques used with the OpenAI language model Text-davinci-003 and Markdown to structure and present information in a clear and organized manner. and to generate responses that provide support, advice, and information for new mothers experiencing postpartum anxiety.
+
 Steps to Run:
 1.Install the OnepAi pip.
+
 2.Replace the OpenAI API key.
+
 And, Then execute the code.
 
 Below, I have also attached the Chatbot Response on the User's Input.
